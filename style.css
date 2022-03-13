@@ -113,7 +113,7 @@ nav ul li .active{
 } 
 
 .about .section-title{
-    font-family: 'Overlock', cursive;
+    /* font-family: 'Overlock', cursive; */
     color: black; 
     text-align: center;
     margin:6% 0% 1% 0%;
@@ -138,7 +138,7 @@ hr{
     margin-top: 3%;
     text-align: center;
     font-size: 20px;
-    font-family: 'Overlock', cursive;
+    /* font-family: 'Overlock', cursive; */
 }
 
 
@@ -230,7 +230,7 @@ hr{
 .education .section-title {
     font-size: 25px;
     text-transform: uppercase;
-    font-family: 'Overlock', cursive;
+    /* font-family: 'Overlock', cursive; */
     margin-bottom: 5%;
 }
 
@@ -306,7 +306,7 @@ hr{
 }
 
 .skills .section-title h2{
-    font-family: 'Overlock', cursive;
+    /* font-family: 'Overlock', cursive; */
     font-size: 25px;
     text-transform: uppercase;
     margin-top: 100px;
@@ -339,7 +339,7 @@ hr{
     background-color:rgb(0, 0, 0)
 }
 .techskills h1{
-    font-family: 'Overlock', cursive;
+    /* font-family: 'Overlock', cursive; */
     text-transform: uppercase;
     color: #ffde59;
     text-align: center;
@@ -366,7 +366,7 @@ hr{
 }
 
 .nontechskills h1{
-    font-family: 'Overlock', cursive;
+    /* font-family: 'Overlock', cursive; */
     text-transform: uppercase;
     color: #ffde59;
     text-align: center;
@@ -381,7 +381,7 @@ hr{
 }
 
 .contact .section-title h1{
-    font-family: 'Overlock', cursive;
+    /* font-family: 'Overlock', cursive; */
     font-size: 25px;
     text-transform: uppercase;
     margin-top: 100%;
@@ -408,7 +408,7 @@ hr{
 }
 
 .contact .details h1{
-    font-family: 'Overlock', cursive;
+    /* font-family: 'Overlock', cursive; */
     text-transform: uppercase;
     color: #ffde59;
     text-align: center;
@@ -471,10 +471,10 @@ hr{
     padding-left: 20px;
 } 
 #footer .copyright{
-    font-family: 'Overlock', cursive;
+    /* font-family: 'Overlock', cursive; */
     text-align: center;
     margin-top: 150px;
 }
-.footer b{
+/* .footer b{
     font-family: 'Overlock', cursive;
-}
+} */
