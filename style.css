@@ -321,6 +321,24 @@ hr{
     display: flex;
     flex-direction: column; 
 }
+#Projects .skills{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column; 
+}
+.p1{
+    /*font-family: 'Overlock', cursive;*/
+    text-transform: uppercase;
+    color: #ffde59;
+    padding-bottom: 10px;
+}
+.p2{
+    /*font-family: 'Overlock', cursive;*/
+    text-transform: uppercase;
+    color: #22d52e;
+    padding-bottom: 10px;
+}
 
 .techskills{
     padding-top: 2.5%;
