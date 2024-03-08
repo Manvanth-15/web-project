@@ -106,6 +106,7 @@ nav ul li .active{
 
 #home .home{
     background-image: url("./back.jpg");
+    
     background-size: cover;
     background-position: center;
     width: 100%;
